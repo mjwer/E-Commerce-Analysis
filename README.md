@@ -2,7 +2,7 @@
 
 **Perform an analysis of the fictitious e-commerce dataset bigquery-public-data.thelook_ecommerce.** <br>
 
-This analysis will include an analysis of products, users, and products, and users and will address the following:
+This analysis will include an analysis of products and users, and will address the following:
 
 > 1. Evaluation of products, analyzing product sales, and product web views, <br>
 > and a justified recommendation on cutting 20% of products from the store, listing the products to remove.
